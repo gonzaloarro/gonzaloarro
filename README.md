@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gonzalo
+# Hi there 👋, I'm Gonzalo
 
 Software Engineer.
 
